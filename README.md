@@ -36,7 +36,7 @@ https://app.nexus.xyz/
 ---
 
 ## --> One-click-deployment 
-0- Reguster in [EasyNode](https://app.easy-node.xyz/?referral=CRYPTOCATTELUGU)
+0- Register in [EasyNode](https://app.easy-node.xyz/?referral=CRYPTOCATTELUGU)
 
 1- Register in [Mintair](https://mintair.xyz/onboarding?ref=851C-EQAV)
 
